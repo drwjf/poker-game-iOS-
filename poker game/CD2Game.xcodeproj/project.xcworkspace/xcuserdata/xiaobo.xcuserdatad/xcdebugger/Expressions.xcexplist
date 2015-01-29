@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesStackState
+   version = "1.0">
+   <StackStates>
+      <StackState
+         stackFrameDescription = "-[CDDGameViewController playCD2Game]:CDDGameViewController.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[RoleSelectedViewController buttonClickedRight:]:RoleSelectedViewController.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[Player getSquare3]:Player.m">
+         <expressions>
+            <expression
+               value = "cardhash">
+            </expression>
+            <expression
+               value = "cardhash[i]">
+            </expression>
+            <expression
+               value = "nc">
+            </expression>
+            <expression
+               value = "temp.hand_card">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[Player init_card_hash:]:Player.m">
+         <expressions>
+            <expression
+               value = "temp_card">
+            </expression>
+            <expression
+               value = "tj2">
+            </expression>
+            <expression
+               value = "ct">
+            </expression>
+            <expression
+               value = "count">
+            </expression>
+            <expression
+               value = "tj1">
+            </expression>
+            <expression
+               value = "cardhash[STRAIGHTFLUSH]">
+            </expression>
+            <expression
+               value = "tj">
+            </expression>
+            <expression
+               value = "tj3">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[Player add_into_hash:_card:]:Player.m">
+         <expressions>
+            <expression
+               value = "cardhash[ct]">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[Player fllowCard:]:Player.m">
+         <expressions>
+            <expression
+               value = "tempCard">
+            </expression>
+            <expression
+               value = "maxCard">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[CDDGame takeTurn]:CDDGame.m">
+         <expressions>
+            <expression
+               value = "players[now]">
+            </expression>
+            <expression
+               value = "players[0]">
+            </expression>
+            <expression
+               value = "now">
+            </expression>
+            <expression
+               value = "last">
+            </expression>
+            <expression
+               value = "needDiamondThree">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[CDDGameViewController player1Operate]:CDDGameViewController.m">
+         <expressions>
+            <expression
+               value = "_cddGame.last">
+            </expression>
+            <expression
+               value = "_cddGame">
+            </expression>
+            <expression
+               value = "[cardsComputer1Owner">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[CDDGame selectCards:]:CDDGame.m">
+         <expressions>
+            <expression
+               value = "needDiamondThree">
+            </expression>
+            <expression
+               value = "now">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[CDDGame distributeCards]:CDDGame.m">
+         <expressions>
+            <expression
+               value = "playType">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "+[CardType getCardType:]:CardType.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[Player outCard:humanCardList:]:Player.m">
+         <expressions>
+            <expression
+               value = "needDiamondThree">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[Player print_hash]:Player.m">
+         <expressions>
+            <expression
+               value = "temp.hand_card">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[Player getCard_min:]:Player.m">
+         <expressions>
+            <expression
+               value = "_selectcard">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[CDDGameViewController player3Operate]:CDDGameViewController.m">
+         <expressions>
+            <expression
+               value = "_cddGame">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "main:main.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "+[CardType getMaxCard:]:CardType.m">
+         <expressions>
+            <expression
+               value = "cards">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[CD2GameViewController viewDidLoad]:CD2GameViewController.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[CDDGame takeTurn]:(null)">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[CDDGame playCDDGame]:CDDGame.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[CDDGame takeTurnUser:]:CDDGame.m">
+         <expressions>
+            <expression
+               value = "players[now]">
+            </expression>
+            <expression
+               value = "nowCards">
+            </expression>
+            <expression
+               value = "now">
+            </expression>
+            <expression
+               value = "last">
+            </expression>
+         </expressions>
+      </StackState>
+   </StackStates>
+</VariablesStackState>
